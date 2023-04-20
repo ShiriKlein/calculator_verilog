@@ -1,0 +1,108 @@
+Restore Archived Project report for DE10_LITE_Golden_Top
+Mon Oct 31 21:04:43 2022
+Quartus Prime Version 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2021  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Mon Oct 31 21:04:43 2022 ;
+; Revision Name                   ; DE10_LITE_Golden_Top                  ;
+; Top-level Entity Name           ; DE10_LITE_Golden_Top                  ;
+; Family                          ; MAX 10                                ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/User/Downloads/DE10_LITE_Golden_Top.qar' into the 'C:/Users/User/Downloads/DE10_LITE_Golden_Top_restored/' directory
+Info: Generated report 'DE10_LITE_Golden_Top.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/21.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 2 warnings
+    Info: Peak virtual memory: 4827 megabytes
+    Info: Processing ended: Mon Oct 31 21:04:43 2022
+    Info: Elapsed time: 00:00:14
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------------------------------------+
+; Files Restored                               ;
++----------------------------------------------+
+; File Name                                    ;
++----------------------------------------------+
+; qar_info.json                                ;
+; Adder_5_bit_p_m.v                            ;
+; Calculator_display.v                         ;
+; DE10_LITE_Golden_Top.SDC                     ;
+; DE10_LITE_Golden_Top.qpf                     ;
+; DE10_LITE_Golden_Top.qsf                     ;
+; DE10_LITE_Golden_Top.v                       ;
+; DE10_LITE_Golden_Top_assignment_defaults.qdf ;
+; FA_SUB.v                                     ;
+; Full_Adder.v                                 ;
+; Half_Adder.v                                 ;
+; Mux_2_to_1.v                                 ;
+; Mux_4bit.v                                   ;
+; Mux_res_dvd.v                                ;
+; adder_5_bit.v                                ;
+; adder_6_bit.v                                ;
+; and_a5_b1.v                                  ;
+; control_ans.v                                ;
+; divider1.v                                   ;
+; hexdrv.v                                     ;
+; minus_control_1bit.v                         ;
+; multiplyer.v                                 ;
+; mux_12bit_1.v                                ;
+; mux_3_to_1.v                                 ;
+; nand3_1.v                                    ;
+; nand4bit.v                                   ;
+; nand_control.v                               ;
+; or_2_plus1.v                                 ;
+; or_not_and.v                                 ;
+; plus_minus_adder_6_bit.v                     ;
+; t_ff.v                                       ;
+; tff_x2.v                                     ;
++----------------------------------------------+
+
+
++--------------------------+
+; Files Not Restored       ;
++--------------------------+
+; File Name                ;
++--------------------------+
+; DE10_LITE_Golden_Top.sdc ;
++--------------------------+
+
+
