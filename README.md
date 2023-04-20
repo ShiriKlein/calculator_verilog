@@ -2,6 +2,8 @@
 
 This is a Verilog based calculator designed to perform four basic arithmetic operations: addition, subtraction, multiplication, and division. The calculator does not rely on the standard arithmetic operators of +, -, *, and / to perform these operations. Rather, these operators are realized only by logic gates that make up the building blocks for the realization.
 
+###Schematic Description
+
 ![title](images/Picture1.png)
 
 
